@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is <span style="color: blue;">print</span> (<span style="color: green;">('that's me {kazuu2k0xf} on Github')</span>) and I'm a IT beginner</h2>
+<h2 align="left">Hi 👋! My name is <span style="color: blue;">print</span> (<span style="color: green;">'that's me {kazuu2k0xf} on Github'</span>) and I'm a IT beginner</h2>
 
 
 
@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazuu2k0xf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
+<h2 align="left">Hi 👋! My name is <span style="color: blue;">print</span> (<span style="color: green;">'that's me {kazuu2k0xf} on Github'</span>) and I'm a IT beginner</h2>
 
 <img align="right" height="150" src="https://i.imgflip.com/8fujzk.jpg"  />
 
